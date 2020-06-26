@@ -13,8 +13,10 @@
 
 develop
 > gatsby develop
- build
+
+build
 > gatsby build
- clean cache
+
+clean cache
 > gatsby clean
     
