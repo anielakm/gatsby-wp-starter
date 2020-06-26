@@ -11,3 +11,14 @@
 ## 🚀 Quick start
 
 ```
+# develop
+gatsby develop
+
+# build
+gatsby build
+
+# clean cache
+gatsby clean
+
+```
+
