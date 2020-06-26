@@ -19,5 +19,6 @@ gatsby develop
 gatsby build
 
 #clean cache
-gatsby clean```
+gatsby clean
+```
     
