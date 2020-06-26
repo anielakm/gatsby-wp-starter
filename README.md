@@ -12,7 +12,7 @@
 ## 🚀 Quick start
 
 develop
-> gatsby develop
+```gatsby develop```
 
 build
 > gatsby build
